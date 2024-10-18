@@ -1,9 +1,9 @@
 ---
-name: Bug report
+name: Bug
 about: Create a report to help us improve
 title: 'Bug: '
 labels: ["bug"]
-projects: ["semantic-kernel"]
+projects: 
 assignees: ''
 
 ---
